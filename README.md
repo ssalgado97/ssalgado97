@@ -2,7 +2,6 @@
 
 ![Night cat](https://github.com/user-attachments/assets/fd6d0803-0b2b-4b78-9ef3-55ed87d0d7c0)
 
-<!--
 **ssalgado97/ssalgado97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
