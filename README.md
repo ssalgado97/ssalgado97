@@ -13,4 +13,5 @@ Here are some ideas to get you started:
   
 ![Baking anime gif](https://github.com/user-attachments/assets/39925ab1-1e38-48a0-b2e6-513c763d8064)
 
-<img width="1067" alt="image" src="https://github.com/user-attachments/assets/7a84d395-ab9d-4cf8-8789-daf722e68ddd">
+
+![Pancho pic](https://github.com/user-attachments/assets/8aa9f5f4-c78c-4181-ad87-841cf5dd36fe)
